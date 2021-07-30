@@ -31,7 +31,6 @@ python bot.py
 
 * [COD X BOTZ](https://t.me/CodXBotz)
 * [COD X BOTZ SUPPORT](https://t.me/CodXBotzSupport)
-
 - For FeedBack and Suggestions, please feel free to say in [COD X BOTZ SUPPORT](https://t.me/CodXBotzSupport)
 
 #### LICENSE
