@@ -7,7 +7,7 @@ This is a Telegram Rename Bot!
 /help for more details.."""
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
-    UPGRADE_TEXT = "<b>👉 Create own Clone Bot.. </b>  /help for Details"
+    UPGRADE_TEXT = "<b>👉 POWERED BY CODXBOTZ </b>  /help for Details"
     DOWNLOAD_START = "trying to download"
     UPLOAD_START = "trying to upload"
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 1.5GB due to Telegram API limitations."
@@ -26,12 +26,10 @@ This is a Telegram Rename Bot!
     
 1. Send me any Telegram File.
 2. Reply to that message to /rename new name.extension.
-   
-<b>👉 Create own Clone Bot :</b> 👉 <a href="https://youtu.be/yYHrSnuYXpA">Diploy</a>
-
+  
 --------
 
-Support Group : @InFoTelGroup
+Support Group : @CodXBotzSupport
 © @SpEcHlDe @TGBotsZ"""
     REPLY_TO_DOC_FOR_RENAME_FILE = "Reply to a Telegram media to `/rename New Name.extension` with custom thumbnail support.."
     ABUSIVE_USERS = "You are not allowed to use this bot. If you think this is a mistake, please check /me to remove this restriction."
